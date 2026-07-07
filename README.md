@@ -1,4 +1,6 @@
 ## Hi, I'm Steve! 👋
+<img align="right" width="400" src="https://github.com/stevelonny/jujutracer/blob/main/asset/tree_box.png">
+
 Based in Milan, Italy, I'm currently pursuing a Master's degree in Physics @ [UNIMI](https://fisica.unimi.it/it), specializing in Computational Physics, Many-Body Theory, Quantum Systems and Structure of Matter.
 My research focuses on the study of strongly correlated quantum systems, particularly in the context of condensed matter physics.
 
@@ -15,7 +17,9 @@ During my academic life, I have organized various social events for students. In
 ### 💻 Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MPI](https://img.shields.io/badge/MPI-333333?style=for-the-badge)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
